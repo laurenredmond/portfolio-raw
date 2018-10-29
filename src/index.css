@@ -701,6 +701,7 @@ footer p {
 }
 .home-footer {
   margin-top: 5em;
+  margin-bottom: 5em;
 }
 
 /* Background videos and images */
@@ -725,7 +726,7 @@ footer p {
   object-position: 0 38%;
 }
 #blk-video-bg {
-  max-height: 575px;
+  max-height: 625px;
   overflow: hidden;
 }
 
@@ -907,7 +908,7 @@ input[type=submit]:hover {
 }
 
 /* Submit button effects */
-.submit-btn{
+.submit-btn {
   outline: none;
   background: #9B636F;
   border: none;

@@ -7,6 +7,11 @@ class Footer extends Component {
   		  <footer className="animated fadeIn home-footer container">
           <div className="social">
     				<ul>
+              <li className="social-icon">
+                <a href="https://instagram.com/laurenredmondo" target="_blank" rel="noopener noreferrer">
+                  <i className="fab fa-google-plus-g" />
+                </a>
+              </li>
     				  <li className="social-icon">
     						<a href="https://instagram.com/laurenredmondo" target="_blank" rel="noopener noreferrer">
     						  <i className="fab fa-instagram" />

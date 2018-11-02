@@ -8,7 +8,7 @@ class Footer extends Component {
           <div className="social">
     				<ul>
               <li className="social-icon">
-                <a href="https://instagram.com/laurenredmondo" target="_blank" rel="noopener noreferrer">
+                <a href="https://plus.google.com/u/0/105956843668657176570" target="_blank" rel="noopener noreferrer">
                   <i className="fab fa-google-plus-g" />
                 </a>
               </li>

@@ -771,12 +771,12 @@ footer p {
 .social ul li {
   position: relative;
   display: inline-block;
-  margin: 0;
+  margin: .25em;
   padding: 0;
 }
 .social ul li a,
 .social ul li a:visited {
-  font-size: 1.7em;
+  font-size: 1.75em;
   margin: 0;
   padding: 0 1em;
 }

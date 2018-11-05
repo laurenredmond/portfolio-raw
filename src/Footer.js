@@ -8,6 +8,11 @@ class Footer extends Component {
           <div className="social">
     				<ul>
               <li className="social-icon">
+                <a href="https://github.com/laurenredmond" target="_blank" rel="noopener noreferrer">
+                  <i className="fab fa-github" />
+                </a>
+              </li>
+              <li className="social-icon">
                 <a href="https://plus.google.com/u/0/105956843668657176570" target="_blank" rel="noopener noreferrer">
                   <i className="fab fa-google-plus-g" />
                 </a>

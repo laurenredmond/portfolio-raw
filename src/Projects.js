@@ -46,7 +46,7 @@ class Projects extends Component {
       				<ScrollAnimation animateIn="fadeIn">
       				  <p>
       					Pride &amp; Primal is a lifestyle blog. This project was
-      					created with a custom theme in Wordpress. The pictures are
+      					created with a theme in Wordpress. The pictures are
                 edited with Adobe Photoshop and Adobe Lightroom. The
       					logo was designed using Adobe Illustrator.
       				  </p>

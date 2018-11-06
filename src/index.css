@@ -790,7 +790,7 @@ footer p {
   display: flex;
   align-items: center;
   justify-content: left;
-  padding-left: 8%;
+  padding-left: 7.5%;
   font-size: 2.8em;
   text-shadow: 4px 4px #9B636F;
   text-transform: uppercase;
@@ -1112,10 +1112,10 @@ input[type=submit]:hover {
       padding-top: 17%;
     }
     .page-head h1 {
-      font-size: 10.4vw;
-      padding-bottom: 1.8em;
+      font-size: 11vw;
+      padding-bottom: 1.71em;
       text-shadow: 2px 2px #9B636F;
-      letter-spacing: .1em;
+      letter-spacing: .05em;
     }
     .contact-button {
       align-items: center;

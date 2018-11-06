@@ -790,10 +790,12 @@ footer p {
   display: flex;
   align-items: center;
   justify-content: left;
-  padding-left: 10%;
-  font-size: 2.4em;
+  padding-left: 8%;
+  font-size: 2.8em;
   text-shadow: 4px 4px #9B636F;
   text-transform: uppercase;
+  font-family: 'Rajdhani', sans-serif;
+  letter-spacing: .25em;
 }
 
 /* Pages */
@@ -1065,9 +1067,6 @@ input[type=submit]:hover {
   .social ul li a:hover {
     color: #63857B;
   }
-  .page-head h1 {
-    font-family: 'Monoxil', sans-serif;
-  }
 }
 
 @media screen and (max-width: 800px) {
@@ -1113,10 +1112,10 @@ input[type=submit]:hover {
       padding-top: 17%;
     }
     .page-head h1 {
-      font-size: 9.4vw;
-      padding-bottom: 2.2em;
+      font-size: 10.4vw;
+      padding-bottom: 1.8em;
       text-shadow: 2px 2px #9B636F;
-      letter-spacing: .2em;
+      letter-spacing: .1em;
     }
     .contact-button {
       align-items: center;

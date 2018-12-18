@@ -46,7 +46,7 @@ class Contact extends Component {
       				<div className="contact-info col">
                 <ScrollAnimation duration={1} animateIn="fadeInRight">
         				  <h2>Listen</h2>
-        				  <iframe title="Lauren's Fall Spotify Playlist" src="https://open.spotify.com/embed/user/laurenredmond/playlist/2sTFq6NIbATvVDZRUlyEyF" width="80%" height={250} frameBorder={0} />
+        				  <iframe title="Lauren's Winter Spotify Playlist" src="https://open.spotify.com/embed/user/laurenredmond/playlist/3lfUsAQaE51kZIhA2oJofU" width="80%" height={250} frameBorder={0} />
                 </ScrollAnimation>
               </div>
     		  </article>
